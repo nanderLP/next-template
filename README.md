@@ -7,25 +7,26 @@
 [x] Next.js v10  
 [x] TypeScript v4.1  
 [x] ESLint (Standard) with Prettier  
-[x] Yarn  
 [x] SCSS Modules  
 [x] Husky with lint-staged and pretty-quick
 
 ## Getting Started
 
-First, clone the template:
+First, clone and install the template:
 
 ```bash
-npx create-next-app -e MyProject https://github.com/nanderLP/next-template
+git clone https://github.com/nanderLP/next-template MyProject
+
+cd MyProject
+
+npm install
 # or
-yarn create next-app -e MyProject https://github.com/nanderLP/next-template
+yarn install
 ```
 
 Then, run the development server:
 
 ```bash
-cd MyProject
-
 npm run dev
 # or
 yarn dev
