@@ -4,11 +4,11 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/nanderLP/next-template/tree/master/)
 
-[x] Next.js v10  
-[x] TypeScript v4.1  
-[x] ESLint (Standard) with Prettier  
-[x] SCSS Modules  
-[x] Husky with lint-staged and pretty-quick
+✅ Next.js v10  
+✅ TypeScript v4.1  
+✅ ESLint (Standard) with Prettier  
+✅ SCSS Modules  
+✅ Husky with lint-staged and pretty-quick
 
 ## Getting Started
 
